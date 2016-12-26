@@ -1,0 +1,1 @@
+Simple genetic algorithm experiment for arduboy. Mutation rate can be increased/decreased with up/down buttons. Pressing the A button will reset the mutation rate to 10%.
